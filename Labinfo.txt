@@ -1,0 +1,25 @@
+Jobair uddin jesan
+22
+Male
+Digital X-Ray,3D Channel ECG,Colour USC,
+Mon Oct 25 20:26:35 BDT 2021
+Tanjina Akter shipu
+20
+Female
+Digital X-Ray,Serology,Colour USC,Histopathology,
+Fri Oct 29 20:29:34 BDT 2021
+Jamal uddin
+56
+Male
+Digital X-Ray , 3D Channel ECG , Serology , 
+Thu Oct 28 21:30:43 BDT 2021
+jesan
+22
+Male
+Digital X-Ray , 3D Channel ECG , Serology , Colour USC , 
+Mon Oct 25 22:33:50 BDT 2021
+arif
+23
+Male
+Digital X-Ray , 3D Channel ECG , Serology , Endoscopy , 
+Tue Nov 16 19:45:05 BDT 2021
